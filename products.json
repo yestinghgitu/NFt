@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name":" BEGONIA",
+        "price": 200,
+        "image": "image/ff-1.jng"
+    },
+    {
+        "id": 2,
+        "name":" COLOR FULL OLEANDER",
+        "price": 250,
+        "image": "image/NFT-2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" LAVENDER",
+        "price": 290,
+        "image": "image/cc-3.jng"
+    },
+    {
+        "id": 4,
+        "name":" ROSE",
+        "price": 200,
+        "image": "image/oo-4.jng"
+    },
+    {
+        "id": 5,
+        "name":" COSMOS",
+        "price": 300,
+        "image": "image/nn-5.jng"
+    },
+    {
+        "id": 6,
+        "name":" DAISY",
+        "price": 200,
+        "image": "image/vv-6.jngss"
+    
+    }
+
+]
